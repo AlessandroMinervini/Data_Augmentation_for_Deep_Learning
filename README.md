@@ -20,8 +20,6 @@ Noise  |  Flip-up |  Change brightness
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/AlessandroMinervini/Data_Augmentation_for_Deep_Learning/blob/master/augmentated/noised/sample.jpg_noised.png) | ![](https://github.com/AlessandroMinervini/Data_Augmentation_for_Deep_Learning/blob/master/augmentated/flipped/sample.jpg_flipped.png) | ![](https://github.com/AlessandroMinervini/Data_Augmentation_for_Deep_Learning/blob/master/augmentated/dark_brightness/sample.jpg_dark_brightness.png)
 
-
-
 ## Requirements
 | Software  | Version | Required|
 | ------------- | ------------- |  ------------- |
@@ -32,5 +30,7 @@ Noise  |  Flip-up |  Change brightness
 | logging  | -  |Yes |
 | imageio  | 2.9.0  |Yes |
 
+### Thanks to...
+Thanks to Alex Turner 
 
 
