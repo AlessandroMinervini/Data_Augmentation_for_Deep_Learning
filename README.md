@@ -30,7 +30,7 @@ Noise  |  Flip-up |  Change brightness
 | logging  | -  |Yes |
 | imageio  | 2.9.0  |Yes |
 
-### Thanks to...
+## Credits
 Thanks to Alex Turner 
 
 
