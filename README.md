@@ -7,14 +7,19 @@ You can generate new data to train neural networks. This is an easy way to preve
 ## Features
 - Crop
 - Rotate
-- Noise
-- Flip up
+- Noise (Gaussian Noise added)
+- Flip-up
 - Change brightness
 
 ## Examples
 Original  |  Crop |  Rotate
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/AlessandroMinervini/Data_Augmentation_for_Deep_Learning/blob/master/dataset/sample.jpg) | ![](https://github.com/AlessandroMinervini/Data_Augmentation_for_Deep_Learning/blob/master/augmentated/cropped/sample.jpg_cropped.png) | ![](https://github.com/AlessandroMinervini/Data_Augmentation_for_Deep_Learning/blob/master/augmentated/rotated/sample.jpg_rotated.png)
+
+Noise  |  Flip-up |  Change brightness
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/AlessandroMinervini/Data_Augmentation_for_Deep_Learning/blob/master/augmentated/noised/sample.jpg_noised.png) | ![](https://github.com/AlessandroMinervini/Data_Augmentation_for_Deep_Learning/blob/master/augmentated/flipped/sample.jpg_flipped.png) | ![](https://github.com/AlessandroMinervini/Data_Augmentation_for_Deep_Learning/blob/master/augmentated/dark_brightness/sample.jpg_dark_brightness.png)
+
 
 
 ## Requirements
